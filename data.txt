@@ -1,1 +1,6 @@
  #data detail of covid19 dicease
+
+language:
+python
+R
+PHP
